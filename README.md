@@ -15,6 +15,7 @@ A comprehensive data analytics project focused on evaluating user behavior, prod
 ```text
 ├── Google_Merchandise_Store_SQL_Queries.pdf  # Comprehensive technical archive with all SQL queries
 └── README.md                                 # Main portfolio presentation, dashboard link, and business analysis report
+```
 
 ---
 
