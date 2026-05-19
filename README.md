@@ -11,6 +11,13 @@ A comprehensive data analytics project focused on evaluating user behavior, prod
 
 ---
 
+## 📁 Repository Structure
+```text
+├── Google_Merchandise_Store_SQL_Queries.pdf  # Comprehensive technical archive with all SQL queries
+└── README.md                                 # Main portfolio presentation, dashboard link, and business analysis report
+
+---
+
 ## 💻 SQL Data Analysis & Key Insights
 
 ### 1. E-commerce Purchase Funnel Performance
