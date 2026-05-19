@@ -56,6 +56,22 @@ I tracked the user cohort acquired in November 2020 over a 6-month observation w
 
 ---
 
+### 4. Marketing Attribution & Traffic Source Performance
+To evaluate the true value of acquisition channels, I mapped user paths to analyze how customers initially discover the store (First-Touch) versus which touchpoints directly precede their sessions and final interactions (Last-Touch).
+
+| First-Touch Source | Last-Touch Source | Tracked Users Cohort | % of Cohort |
+| :--- | :--- | :--- | :--- |
+| **Organic Search** | **Direct** | 24,152 | 30.41% |
+| **Direct** | **Direct** | 18,491 | 23.28% |
+| **Organic Search** | **Organic Search** | 12,043 | 15.16% |
+| **Referral** | **Direct** | 5,832 | 7.34% |
+| **Youtube** | **Direct** | 3,114 | 3.92% |
+
+* **Analytical Insight & Channel Decay Effect:** The data reveals a strong brand recall and intent retention pattern. A dominant segment of users (**30.41%**) find the store via **Organic Search** but return to execute final actions via **Direct** traffic. This proves that organic positioning effectively feeds a high-retention pipeline, transforming casual searchers into users who bookmark the site or enter the URL directly.
+* **Top-of-Funnel Value of YouTube:** While YouTube shows lower bottom-funnel direct attribution, it acts as a critical top-of-funnel awareness builder, successfully introducing 3.92% of the total tracked cohort who later navigate back to purchase directly.
+
+---
+
 ## 📊 Actionable Strategic Recommendations
 
 1. **Optimize Product Card UX/UI:** Focus engineering and design resources on the 90% friction gap between product viewing and cart addition. Run A/B tests on "Add to Cart" button prominence and streamline the product detail layout.
