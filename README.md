@@ -36,7 +36,7 @@ By parsing nested raw GA4 logs, I mapped the complete user journey from landing 
 
 ---
 
-### 2. Cross-Platform Technical Diagnostics (Hypothesis Testing)
+### 2. Cross-Platform Technical Diagnostics
 I segmented the final purchase stage by operating systems to test the hypothesis of a potential technical or payment gateway failure on mobile platforms.
 
 | Platform OS | Total Sessions | Successful Purchases | Session-to-Purchase CR (%) |
